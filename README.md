@@ -100,7 +100,7 @@ https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/Dashboard.png)
 
 ---
 
